@@ -42,7 +42,7 @@ To view the project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/ParsuramBaral/Amazon-Clone.git
+   git clone https://github.com/SubratZi/Amazon-Clone.git
 
 2. **Navigate to the project directory**:
 
