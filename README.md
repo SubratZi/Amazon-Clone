@@ -69,7 +69,7 @@ Contributions are welcome! Please follow these steps:
 
 2. **Create a new branch**:
    ```bash
-   git checkout -b main
+   git checkout -b feature/SubratZi
 
 3. **Commit your changes**:
     git commit -m 'Add some feature'
