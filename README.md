@@ -42,7 +42,7 @@ To view the project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/ParsuramBaral/Amazon-Clone.git
+   git clone https://github.com/SubratZi/Amazon-Clone.git
 
 2. **Navigate to the project directory**:
 
@@ -69,7 +69,7 @@ Contributions are welcome! Please follow these steps:
 
 2. **Create a new branch**:
    ```bash
-   git checkout -b main
+   git checkout -b feature/SubratZi
 
 3. **Commit your changes**:
     git commit -m 'Add some feature'
